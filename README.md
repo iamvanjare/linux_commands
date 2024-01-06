@@ -172,3 +172,87 @@ vbnet
 Copy code
 
 Copy the above text and save it as a `.txt` file using a text editor of your choice.
+
+
+
+# Second
+
+Linux Command Reference
+
+Introduction
+
+This repository serves as a comprehensive reference for various Linux commands, providing a quick guide for both beginners and experienced users. The purpose is to cover a wide range of commands commonly used in the Linux environment and offer concise explanations and examples.
+
+Table of Contents
+
+1. Navigation Commands
+2. File and Directory Management
+3. Text Editing
+4. File Permissions
+5. User and Group Management
+6. Process Management
+7. Package Management
+8. Network Commands
+9. System Information
+10. Miscellaneous Commands
+
+Navigation Commands
+
+- cd: Change directory.
+- ls: List files and directories.
+- pwd: Print the current working directory.
+- mkdir: Create a new directory.
+
+File and Directory Management
+
+- cp: Copy files or directories.
+- mv: Move or rename files or directories.
+- rm: Remove files or directories.
+- chmod: Change file permissions.
+
+Text Editing
+
+- nano: A simple text editor.
+- vim: A powerful text editor.
+- cat: Display file content.
+
+File Permissions
+
+- chmod: Change file permissions.
+- chown: Change file owner.
+
+User and Group Management
+
+- useradd: Add a new user.
+- passwd: Change user password.
+- groupadd: Add a new group.
+
+Process Management
+
+- ps: Display information about processes.
+- kill: Terminate a process.
+- top: Display and manage processes interactively.
+
+Package Management
+
+- apt: Advanced Package Tool for Debian-based systems.
+- yum: Yellowdog Updater Modified for RPM-based systems.
+
+Network Commands
+
+- ifconfig: Display and configure network interfaces.
+- ping: Test network connectivity.
+- netstat: Display network statistics.
+
+System Information
+
+- uname: Display system information.
+- df: Display disk space usage.
+
+Miscellaneous Commands
+
+- date: Display or set the system date and time.
+- history: Display command history.
+
+Feel free to contribute by adding more commands and examples. Happy coding!
+
